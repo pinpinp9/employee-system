@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\IT\IIBIT course\term2\C#\assignment\Employee_System-Asst3\obj\Debug\Employee_System_Asst3.Form1.resources
+C:\Users\Admin\Desktop\IT\IIBIT course\term2\C#\assignment\Employee_System-Asst3\obj\Debug\Employee_System_Asst3.Properties.Resources.resources
+C:\Users\Admin\Desktop\IT\IIBIT course\term2\C#\assignment\Employee_System-Asst3\obj\Debug\Employee_System-Asst3.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\IT\IIBIT course\term2\C#\assignment\Employee_System-Asst3\obj\Debug\Employee_System-Asst3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IT\IIBIT course\term2\C#\assignment\Employee_System-Asst3\obj\Debug\Employee_System-Asst3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\IT\IIBIT course\term2\C#\assignment\Employee_System-Asst3\bin\Debug\Employee(Asst3).accdb
+C:\Users\Admin\Desktop\IT\IIBIT course\term2\C#\assignment\Employee_System-Asst3\bin\Debug\Employee_System-Asst3.exe.config
+C:\Users\Admin\Desktop\IT\IIBIT course\term2\C#\assignment\Employee_System-Asst3\bin\Debug\Employee_System-Asst3.exe
+C:\Users\Admin\Desktop\IT\IIBIT course\term2\C#\assignment\Employee_System-Asst3\bin\Debug\Employee_System-Asst3.pdb
+C:\Users\Admin\Desktop\IT\IIBIT course\term2\C#\assignment\Employee_System-Asst3\obj\Debug\Employee_System-Asst3.exe
+C:\Users\Admin\Desktop\IT\IIBIT course\term2\C#\assignment\Employee_System-Asst3\obj\Debug\Employee_System-Asst3.pdb
